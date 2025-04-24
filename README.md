@@ -24,4 +24,5 @@ A sleek and responsive portfolio website built to showcase my skills, projects, 
 
 ## 🔗 Live Demo
 
-[Click here to view the live portfolio](https://your-portfolio-link.com)
+[Click here to view the live portfolio]
+https://akashak0717.github.io/Akash-s-Portfolio/
