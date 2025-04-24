@@ -1,2 +1,27 @@
-# Akash-s-Portfolio
-A professional and responsive portfolio website developed using HTML, CSS, and JavaScript. It includes sections such as Home, About, Education, Project, Contact, along with options to download a CV. The site features theme customization with five color options and supports both light and dark modes, offering a personalized browsing experience.
+# 💼 Personal Portfolio
+
+A sleek and responsive portfolio website built to showcase my skills, projects, experience, and contact information. Designed with modern UI/UX principles to make a strong impression.
+
+## 🚀 Features
+
+- 🌐 Responsive design (mobile + desktop)
+- 🧑‍💻 About Me section
+- 📁 Projects showcase
+- ✉️ Contact form or social media links
+- 🎨 Clean and modern UI
+- ⚛️ Built with HTML, CSS and JavaScript
+
+## 🛠 Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+
+## 📸 Preview
+
+![Portfolio Screenshot](screenshot.png)  
+
+
+## 🔗 Live Demo
+
+[Click here to view the live portfolio](https://your-portfolio-link.com)
